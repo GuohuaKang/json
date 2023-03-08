@@ -1,0 +1,28 @@
+{
+  "myInfo": {
+    "city1": "Paris",
+    "num1": 39,
+    "city2": "Beijing",
+    "num2": 49
+  },
+  "row": [
+    {
+      "id": 0,
+      "left": 39,
+      "rowtitle": "NUM01",
+      "right": 49
+    },
+    {
+      "id": 1,
+      "left": 12,
+      "rowtitle": "NUM02",
+      "right": 45
+    },
+    {
+      "id": 2,
+      "left": 52,
+      "rowtitle": "NUm03",
+      "right": 23
+    }
+  ]
+}
